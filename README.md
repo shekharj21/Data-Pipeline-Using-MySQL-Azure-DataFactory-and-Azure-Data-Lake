@@ -31,4 +31,11 @@ We will be using azure blob storage to store the extracted Data from MySQL or OL
 
 ![Screenshot (482)](https://github.com/shekharj21/shekharj21/assets/54074505/0a24f01a-62b0-45f8-befb-1f221ef8d7aa)
 
-
+## Loading the data into MySQL :
+1. You'll find a command to import and export data by clicking on the DB name.
+2. open the terminal and upload the shopping.sql file.
+3. command should be like this. ------> mysql -h shopping-database-server.mysql.database.azure.com -u ineuron -p <shopping.sql --------where shopping.sql is a SQL filename
+4. Enter the Password & if u see no error then data is loaded Successfully.
+5. copy the connect from "run from browser" command and paste it in the new terminal to see the data in MySQL.
+   
+![Screenshot (484)](https://github.com/shekharj21/shekharj21/assets/54074505/f5b722d4-7337-4560-8bfa-7e9609069fb7)
