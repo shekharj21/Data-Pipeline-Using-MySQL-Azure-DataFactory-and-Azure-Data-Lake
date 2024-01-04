@@ -50,6 +50,18 @@ We will be using azure blob storage to store the extracted Data from MySQL or OL
 2. click and give a name to it.
 3. use RG-DEV resource group.
 4. create the data Factory.
+5. open an account on (dev.azure.com) if not created because we will be using code Repo.
+6. create Organization.
+7. come again to data factry and select Azure Dev Code repo
+8. enter all the details from drop down arrow and connect the repo with azure data factory.
+9. add configuration as "main"
 
-![Screenshot (485)](https://github.com/shekharj21/shekharj21/assets/54074505/c2b63d81-ec97-4a40-be12-041cda0db14b)
+### Error handling (Organization name not available in Data factory)
+10. If facing any error seeing organization name in data factory then go back to azure dev services and on the right you'll see your profile.
+11. select profile and change directory. after that go to organization setting and go to "Microsoft Entra" and make sure azure active directory is connected.
+12. then go again to the azure data factory now you'll see the organization name.
+
+## Create pipeline
+1. create Pipeline and assign a name to it and save it.
+2. now go to azure devops repo to see something is generating.
 
