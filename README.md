@@ -39,3 +39,8 @@ We will be using azure blob storage to store the extracted Data from MySQL or OL
 5. copy the connect from "run from browser" command and paste it in the new terminal to see the data in MySQL.
    
 ![Screenshot (484)](https://github.com/shekharj21/shekharj21/assets/54074505/f5b722d4-7337-4560-8bfa-7e9609069fb7)
+
+## Tables in the database :
+
+![IMG_6186](https://github.com/shekharj21/shekharj21/assets/54074505/d38c65f5-880e-449d-99f0-a9ccd90c0b05)
+
