@@ -19,3 +19,16 @@ We will be using azure blob storage to store the extracted Data from MySQL or OL
 5. add firewall ports etc
 
 ![Screenshot (481)](https://github.com/shekharj21/shekharj21/assets/54074505/bbd0b97c-f87f-462b-b02b-0318f6dbdf71)
+
+## Connecting and Quering MySQL DB :
+1. select the database under RG-DEV.
+2. on the left side click connect.
+3. choose way to connect it ( I am Choosing Browser ).
+4. Copy the command under "Connect From Browser".
+5. click on azure terminal at the top and paste it &  enter the password which you chose during MYSQL creation.
+6. we'll see mysql running in the azure terminal.
+
+
+![Screenshot (482)](https://github.com/shekharj21/shekharj21/assets/54074505/0a24f01a-62b0-45f8-befb-1f221ef8d7aa)
+
+
