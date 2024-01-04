@@ -10,3 +10,12 @@ We will be using azure blob storage to store the extracted Data from MySQL or OL
 3. RG-PROD (Production Resource Group)
 
 ![Screenshot (480)](https://github.com/shekharj21/shekharj21/assets/54074505/ecee3836-0395-49a1-80c0-b14406bfa847)
+
+## Creating MYSQL Server Database :
+1. open azure console.
+2. select azure database for MYSQL servers.
+3. select RG-DEV Resource Group
+4. add name, region and MySQL version = 5.7
+5. add firewall ports etc
+
+![Screenshot (481)](https://github.com/shekharj21/shekharj21/assets/54074505/bbd0b97c-f87f-462b-b02b-0318f6dbdf71)
