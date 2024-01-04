@@ -44,3 +44,12 @@ We will be using azure blob storage to store the extracted Data from MySQL or OL
 
 ![IMG_6186](https://github.com/shekharj21/shekharj21/assets/54074505/d38c65f5-880e-449d-99f0-a9ccd90c0b05)
 
+
+## Configure Azure Data Factory with Azure DevOps Repo :
+1. Search for data factory.
+2. click and give a name to it.
+3. use RG-DEV resource group.
+4. create the data Factory.
+
+![Screenshot (485)](https://github.com/shekharj21/shekharj21/assets/54074505/c2b63d81-ec97-4a40-be12-041cda0db14b)
+
