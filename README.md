@@ -65,3 +65,9 @@ We will be using azure blob storage to store the extracted Data from MySQL or OL
 1. create Pipeline and assign a name to it and save it.
 2. now go to azure devops repo to see something is generating.
 
+## Create Azure key vault :
+Resource group----> RG-DEV
+Key vault name----> DEVKEYVAULTINEURON
+Region-----> South India
+
+## ADD Credentials in keyVAult
